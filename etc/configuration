@@ -1,0 +1,5 @@
+# list of predefined host names, csv
+HOSTS=""
+
+# list of predefined user names, csv
+USERS=""

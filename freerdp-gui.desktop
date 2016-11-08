@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=FreeRDP Frontend
+Comment=Remote desktop Access
+Exec=/usr/local/share/freerdp_gui/freerdp_gui.sh
+Icon=/usr/local/share/freerdp_gui/graphics/FreeRDP.png
+Type=Application
+Terminal=false
+Categories=;Network;TET;
