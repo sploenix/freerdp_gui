@@ -1,5 +1,10 @@
 # list of predefined host names, csv
+# Example: HOSTS="host1,host2"
 HOSTS=""
 
 # list of predefined user names, csv
+# Example: USERS="user1,user2"
 USERS=""
+
+# list of predefined domains, csv
+# Eaxmple: DOMAINS="domain1,domain2"
